@@ -12,5 +12,4 @@ Products (Imagaes+Deatils)
 Contact
 
 3.Remove the Images which are there in templates and add products images.
-
 4. Add Logo Image somewhere in the templates.
