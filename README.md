@@ -5,11 +5,21 @@ Requirements for template
 Home
 About us (It is a company which exports there products to out of india)
 Products (Imagaes+Deatils)
-  1.Fresh Fruits
-  2.Vegetables
-  3.Pharma
-  4.Machines
-Contact
 
 3.Remove the Images which are there in templates and add products images.
 4. Add Logo Image somewhere in the templates.
+
+Menu Should be:
+Home
+About us
+Products 
+- fresh fruits
+- vegetables 
+-  pharma
+Contact us
+
+Mobile number: 8898020377
+Name : Vikram Vinoy Valecha
+Address; 606 PANCHLEELA, BEHIND SM SHETTY, SCHOOL, NEAR
+HIRANANDANI GARDENS, POWAI, MUMBAI , MUMBAI,
+MAHARASHTRA, 400076
