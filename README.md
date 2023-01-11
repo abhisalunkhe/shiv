@@ -9,7 +9,7 @@ Products (Imagaes+Deatils)
 3.Remove the Images which are there in templates and add products images.
 4. Add Logo Image somewhere in the templates.
 
-Menu Should be:
+Menu Should be only this much:
 Home
 About us
 Products 
