@@ -12,7 +12,10 @@ Products (Imagaes+Deatils)
 Menu Should be only this much:
 Home
 About us
-Products 
+Products
+- Injection Molding Machine
+- Machine Tools
+- Auxilary Equipment
 - fresh fruits
 - vegetables 
 -  pharma
