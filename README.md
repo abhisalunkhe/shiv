@@ -27,3 +27,7 @@ Address; 606 PANCHLEELA, BEHIND SM SHETTY, SCHOOL, NEAR
 HIRANANDANI GARDENS, POWAI, MUMBAI , MUMBAI,
 MAHARASHTRA, 400076
 Email: info@shivexports.co.in
+
+
+FOOTER TEXT
+Together with our partners, we’re developing technologies, business models and insights for the next wave of immersive experiences. The strength of the company has been built upon its strong partnerships with leading suppliers, importers and exporters from around the world…
